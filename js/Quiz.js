@@ -33,7 +33,7 @@ class Quiz {
     
     Contestant.getContestantInfo();
 
-    var i =createElemant('h2');
+    var i =createElement('h2');
     i.html("RESULT");
     i.position(100,0);
     background("yellow");
